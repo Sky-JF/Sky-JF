@@ -4,7 +4,7 @@ João de Araujo Junior
 aka Sky
 
 Dartmouth College '27
-Computer Engineer
+computer, software, and full-stack engineer
 
 <!--
 **Sky-JF/Sky-JF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
